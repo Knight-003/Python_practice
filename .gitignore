@@ -1,7 +1,7 @@
 *.exe
 .vscode
 .tmp.driveupload/
-_pycache_
+__pycache__
 exp/
 .tmp.drivedownload/
 
