@@ -1,0 +1,7 @@
+*.exe
+.vscode
+.tmp.driveupload/
+_pycache_
+exp/
+.tmp.drivedownload/
+
